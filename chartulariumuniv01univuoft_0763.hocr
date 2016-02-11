@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chartulariumuniv01univuoft_0763.png"; bbox 0 0 2580 3528; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 29 608">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 29 608">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 29 608; baseline 0 2920"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 29 608; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1358 0 1744 93">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1358 0 1744 93">
+     <span class='ocr_line' id='line_1_2' title="bbox 1358 0 1744 93; baseline -0.07 -11"><span class='ocrx_word' id='word_1_2' title='bbox 1358 34 1569 93; x_wconf 61' lang='lat' dir='ltr'><strong>mantue</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1594 0 1744 65; x_wconf 69' lang='grc' dir='ltr'>ὲεοτ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1815 2 2098 64">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1815 2 2098 64">
+     <span class='ocr_line' id='line_1_3' title="bbox 1815 2 2098 64; baseline -0.035 0"><span class='ocrx_word' id='word_1_4' title='bbox 1815 2 2098 64; x_wconf 54' lang='lat' dir='ltr'><strong>mmmm)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1488 1663 2563 2854">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1488 1663 2563 2854">
+     <span class='ocr_line' id='line_1_4' title="bbox 1488 1663 2563 2854; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 1488 1663 2563 2854; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1832 2870 2553 2959">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1832 2870 2553 2959">
+     <span class='ocr_line' id='line_1_5' title="bbox 1832 2870 2254 2910; baseline -0.017 0"><span class='ocrx_word' id='word_1_6' title='bbox 1832 2875 1973 2910; x_wconf 75' lang='lat' dir='ltr'><strong>Par1s.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2009 2870 2254 2907; x_wconf 69' lang='lat' dir='ltr'><strong>Un1vera1te</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1910 2913 2553 2959; baseline -0.022 0"><span class='ocrx_word' id='word_1_8' title='bbox 1910 2921 2207 2959; x_wconf 63' lang='lat' dir='ltr'><strong>chartularium</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2233 2913 2553 2953; x_wconf 66' lang='lat' dir='ltr'><strong>Universitatis</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1834 2972 2107 3020">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1834 2972 2107 3020">
+     <span class='ocr_line' id='line_1_7' title="bbox 1834 2972 2107 3020; baseline -0.022 -9"><span class='ocrx_word' id='word_1_10' title='bbox 1834 2972 2107 3020; x_wconf 65' lang='lat' dir='ltr'><strong>parisiensis</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
